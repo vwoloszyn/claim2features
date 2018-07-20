@@ -16,17 +16,16 @@ sites = [
     "http://www.politifact.com/personalities/sean-hannity/",
     "https://theconversation.com/factcheck-is-australias-population-the-highest-growing-in-the-world-96523",
     "https://www.washingtonpost.com/news/fact-checker/wp/2018/07/18/phil-bredesens-claim-that-tennessees-meth-problem-was-cut-in-half/?utm_term=.f3688d506f6c",
-    "https://apnews.com/tag/APFactCheck",
-    "https://climatefeedback.org/evaluation/usa-today-paleoclimate-study-mostly-accurate-lacks-clarity-doyle-rice/",
     "https://www.factcheckni.org/facts/100000-adults-northern-ireland-no-home/",
 ]
 
 ignore_html_tags = ['script']
-text_tags = ['p', 'strong', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a', 'li', 'b', 'i', 'u', 'title']
+text_tags = ['p', 'strong', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a', 'li', 'b', 'i', 'u', 'title', 'em']
 
 
 def treat_text(text):
-    return text.replace('\n', '').strip()
+    return text.replace('\n', '').replace('\t', '').strip()
+
 
 def get_url(url):
     headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36'}
@@ -42,6 +41,9 @@ def get_url(url):
 def walk_html(element, data, site, level):
     features = {}
     features['tag'] = element.name
+    features['attrs'] = element.attrs
+    #features['attrs'] = treat_text(';'.join(element.attrs))
+    #features['attrs_values'] = treat_text(';'.join([' '.join(element.attrs[k]) for k in element.attrs]))
     features['url'] = site
     features['level'] = level
     features['label'] = 'None'
