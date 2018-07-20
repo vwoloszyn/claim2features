@@ -16,7 +16,6 @@ sites = [
     "http://www.politifact.com/personalities/sean-hannity/",
     "https://theconversation.com/factcheck-is-australias-population-the-highest-growing-in-the-world-96523",
     "https://www.washingtonpost.com/news/fact-checker/wp/2018/07/18/phil-bredesens-claim-that-tennessees-meth-problem-was-cut-in-half/?utm_term=.f3688d506f6c",
-    "https://www.factcheckni.org/facts/100000-adults-northern-ireland-no-home/",
 ]
 
 ignore_html_tags = ['script']
