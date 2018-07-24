@@ -39,6 +39,8 @@ def get_url(url):
 
 def walk_html(element, data, site, level):
     features = {}
+    if element is None: 
+        return
     features['tag'] = element.name
     features['attrs'] = element.attrs
     #features['attrs'] = treat_text(';'.join(element.attrs))
@@ -66,11 +68,10 @@ def extract_features(html, data, site):
 
 
 if __name__ == "__main__":
-    data=[]
     for url in sites:
+        data=[]
         print('url:', url)
         html = get_url(url)
         extract_features(html, data, url)
-
-    pdf=pd.DataFrame(data)
-    pdf.to_csv("features.csv", encoding="utf8")
+        pdf=pd.DataFrame(data)
+        pdf.to_csv("features"+str(sites.index(url))+".csv", encoding="utf8")
