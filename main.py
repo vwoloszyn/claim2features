@@ -2,8 +2,8 @@ import pandas as pd
 import bs4
 from bs4 import BeautifulSoup
 import requests
-    
 
+"""
 sites = [
     "https://www.snopes.com/fact-check/hillary-clinton-smash-phone-hammer/",
     "https://africacheck.org/reports/eskom-and-the-viral-infographic-do-the-numbers-add-up/",
@@ -17,6 +17,17 @@ sites = [
     "https://theconversation.com/factcheck-is-australias-population-the-highest-growing-in-the-world-96523",
     "https://www.washingtonpost.com/news/fact-checker/wp/2018/07/18/phil-bredesens-claim-that-tennessees-meth-problem-was-cut-in-half/?utm_term=.f3688d506f6c",
 ]
+language = 'english'
+"""
+
+sites = [
+    "https://piaui.folha.uol.com.br/lupa/2018/08/08/presidenciaveis-seguranca-globonews/",
+    "https://aosfatos.org/noticias/alckmin-cita-dados-errados-sobre-numero-de-penitenciarias-e-consumo-de-drogas-na-globonews/",
+    "https://apublica.org/2018/07/truco-paulo-rabello-acerta-gasto-em-educacao-e-erra-mortes-de-negros/",
+    "https://g1.globo.com/e-ou-nao-e/noticia/2018/07/23/placa-mostra-que-a-igreja-universal-explora-estacionamento-da-lagoa-no-rio-nao-e-verdade.ghtml",
+    "http://www.e-farsas.com/manuela-davila-aparece-em-video-dancando-funk-na-rua-sera-verdade.html",
+]
+language = 'portuguese'
 
 ignore_html_tags = ['script']
 text_tags = ['p', 'strong', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a', 'li', 'b', 'i', 'u', 'title', 'em']
@@ -39,7 +50,7 @@ def get_url(url):
 
 def walk_html(element, data, site, level):
     features = {}
-    if element is None: 
+    if element is None:
         return
     features['tag'] = element.name
     features['attrs'] = element.attrs
@@ -48,6 +59,7 @@ def walk_html(element, data, site, level):
     features['url'] = site
     features['level'] = level
     features['label'] = 'None'
+    features['language'] = language
     if element.name in text_tags:
         features['text'] = treat_text(element.text)
     else:
@@ -55,7 +67,7 @@ def walk_html(element, data, site, level):
 
     data.append(features)
     for e_child in element:
-        if (type(e_child) == bs4.element.NavigableString or 
+        if (type(e_child) == bs4.element.NavigableString or
             type(e_child) == bs4.element.Comment or
             type(e_child) == bs4.element.Doctype or
             type(e_child) == str or
