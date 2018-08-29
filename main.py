@@ -3,6 +3,8 @@ import bs4
 from bs4 import BeautifulSoup
 import requests
 
+
+# First dataset for testing
 """
 sites = [
     "https://www.snopes.com/fact-check/hillary-clinton-smash-phone-hammer/",
@@ -20,6 +22,20 @@ sites = [
 language = 'english'
 """
 
+"""
+# Complement in english
+sites = [
+    "https://www.rappler.com/newsbreak/fact-check/210221-naga-not-top-5-city-crime-volume-philippines",
+    "https://www.snopes.com/fact-check/john-mccain-last-words-trump/",
+    "http://verafiles.org/articles/vera-files-fact-check-duterte-wrong-saying-mindanao-not-hit",
+    "https://www.factcheckni.org/facts/100000-adults-northern-ireland-no-home/",
+    "http://www.abc.net.au/news/2018-08-23/fact-check-fraser-anning-university-places-international-student/10147364",
+]
+language = 'english'
+"""
+
+# Portuguese news
+
 sites = [
     "https://piaui.folha.uol.com.br/lupa/2018/08/08/presidenciaveis-seguranca-globonews/",
     "https://aosfatos.org/noticias/alckmin-cita-dados-errados-sobre-numero-de-penitenciarias-e-consumo-de-drogas-na-globonews/",
@@ -28,6 +44,7 @@ sites = [
     "http://www.e-farsas.com/manuela-davila-aparece-em-video-dancando-funk-na-rua-sera-verdade.html",
 ]
 language = 'portuguese'
+
 
 ignore_html_tags = ['script']
 text_tags = ['p', 'strong', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'a', 'li', 'b', 'i', 'u', 'title', 'em']
