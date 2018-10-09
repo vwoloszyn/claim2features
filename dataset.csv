@@ -1,0 +1,600 @@
+,attrs,label,level,site,tag,text,url
+0,{},None,0,snope,[document],"var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent(""on""+t,n):e[""on""+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent(""on""+t,n):delete e[""on""+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+""_""+n);for(var o=e+""="",t=decodeURIComponent(document.cookie).split("";""),i=0;i<t.length;i++){for(var c=t[i];"" ""===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""""},__ez.ck.setByCat=function(e,n){if(""undefined""!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get(""ezCMPCookieConsent"",null);-1!==(o=o.substring(1,o.length)).indexOf(n+""=1"")?document.cookie=e:""""===o&&""undefined""!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,t=[],n=[],r=[],o=!0,s={func:fu",url_here
+1,"{'lang': 'en-US', 'prefix': 'og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#'}",None,1,snope,html,"var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent(""on""+t,n):e[""on""+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent(""on""+t,n):delete e[""on""+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+""_""+n);for(var o=e+""="",t=decodeURIComponent(document.cookie).split("";""),i=0;i<t.length;i++){for(var c=t[i];"" ""===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""""},__ez.ck.setByCat=function(e,n){if(""undefined""!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get(""ezCMPCookieConsent"",null);-1!==(o=o.substring(1,o.length)).indexOf(n+""=1"")?document.cookie=e:""""===o&&""undefined""!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,t=[],n=[],r=[],o=!0,s={func:fu",url_here
+2,{},None,2,snope,head,"var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=false;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent(""on""+t,n):e[""on""+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent(""on""+t,n):delete e[""on""+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+""_""+n);for(var o=e+""="",t=decodeURIComponent(document.cookie).split("";""),i=0;i<t.length;i++){for(var c=t[i];"" ""===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""""},__ez.ck.setByCat=function(e,n){if(""undefined""!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get(""ezCMPCookieConsent"",null);-1!==(o=o.substring(1,o.length)).indexOf(n+""=1"")?document.cookie=e:""""===o&&""undefined""!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,t=[],n=[],r=[],o=!0,s={func:fu",url_here
+3,{'charset': 'utf-8'},None,3,snope,meta,,url_here
+4,"{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}",None,3,snope,meta,,url_here
+5,"{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}",None,3,snope,meta,,url_here
+6,{},None,3,snope,title,FACT CHECK: Did President Trump Fist-Pump at a 9/11 Memorial?,url_here
+7,"{'name': 'description', 'content': 'An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial.'}",None,3,snope,meta,,url_here
+8,"{'name': 'news_keywords', 'content': '9/11, barack obama, donald trump'}",None,3,snope,meta,,url_here
+9,"{'name': 'original-source', 'content': 'https://www.snopes.com/fact-check/trump-fist-pump-911/'}",None,3,snope,meta,,url_here
+10,"{'rel': ['canonical'], 'href': 'https://www.snopes.com/fact-check/trump-fist-pump-911/'}",None,3,snope,link,,url_here
+11,"{'rel': ['publisher'], 'href': 'https://plus.google.com/+snopes'}",None,3,snope,link,,url_here
+12,"{'property': 'og:locale', 'content': 'en_US'}",None,3,snope,meta,,url_here
+13,"{'property': 'og:type', 'content': 'article'}",None,3,snope,meta,,url_here
+14,"{'property': 'og:title', 'content': 'FACT CHECK: Did President Trump Fist-Pump at a 9/11 Memorial?'}",None,3,snope,meta,,url_here
+15,"{'property': 'og:description', 'content': 'An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial.'}",None,3,snope,meta,,url_here
+16,"{'property': 'og:url', 'content': 'https://www.snopes.com/fact-check/trump-fist-pump-911/'}",None,3,snope,meta,,url_here
+17,"{'property': 'og:site_name', 'content': 'Snopes.com'}",None,3,snope,meta,,url_here
+18,"{'property': 'article:publisher', 'content': 'https://www.facebook.com/snopes'}",None,3,snope,meta,,url_here
+19,"{'property': 'article:tag', 'content': '9/11'}",None,3,snope,meta,,url_here
+20,"{'property': 'article:tag', 'content': 'barack obama'}",None,3,snope,meta,,url_here
+21,"{'property': 'article:tag', 'content': 'donald trump'}",None,3,snope,meta,,url_here
+22,"{'property': 'fb:app_id', 'content': '1637816429839563'}",None,3,snope,meta,,url_here
+23,"{'property': 'og:image', 'content': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg'}",None,3,snope,meta,,url_here
+24,"{'name': 'twitter:card', 'content': 'summary_large_image'}",None,3,snope,meta,,url_here
+25,"{'name': 'twitter:description', 'content': 'An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial.'}",None,3,snope,meta,,url_here
+26,"{'name': 'twitter:title', 'content': 'FACT CHECK: Did President Trump Fist-Pump at a 9/11 Memorial?'}",None,3,snope,meta,,url_here
+27,"{'name': 'twitter:site', 'content': '@snopes'}",None,3,snope,meta,,url_here
+28,"{'name': 'twitter:image', 'content': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?fit=975,591'}",None,3,snope,meta,,url_here
+29,"{'name': 'twitter:creator', 'content': '@danieljevon'}",None,3,snope,meta,,url_here
+30,"{'property': 'DC.date.issued', 'content': '2018-09-12T16:12:11-07:00'}",None,3,snope,meta,,url_here
+31,"{'rel': ['dns-prefetch'], 'href': '//www.snopes.com'}",None,3,snope,link,,url_here
+32,"{'rel': ['dns-prefetch'], 'href': '//iframe.ly'}",None,3,snope,link,,url_here
+33,"{'rel': ['dns-prefetch'], 'href': '//www.google.com'}",None,3,snope,link,,url_here
+34,"{'rel': ['alternate'], 'type': 'application/rss+xml', 'title': 'Snopes.com » Feed', 'href': 'https://www.snopes.com/feed/'}",None,3,snope,link,,url_here
+35,"{'rel': ['stylesheet'], 'id': 'sage/css-css', 'href': 'https://www.snopes.com/content/themes/snopes/dist/styles/main-91f93ead1c.css', 'type': 'text/css', 'media': 'all'}",None,3,snope,link,,url_here
+36,"{'rel': ['https://api.w.org/'], 'href': 'https://www.snopes.com/wp-json/'}",None,3,snope,link,,url_here
+37,"{'rel': ['EditURI'], 'type': 'application/rsd+xml', 'title': 'RSD', 'href': 'https://www.snopes.com/xmlrpc.php?rsd'}",None,3,snope,link,,url_here
+38,"{'rel': ['wlwmanifest'], 'type': 'application/wlwmanifest+xml', 'href': 'https://www.snopes.com/wp-includes/wlwmanifest.xml'}",None,3,snope,link,,url_here
+39,"{'rel': ['shortlink'], 'href': 'https://www.snopes.com/?p=161342'}",None,3,snope,link,,url_here
+40,"{'rel': ['alternate'], 'type': 'application/json+oembed', 'href': 'http://iframe.ly/api/oembed?origin=discovery&api_key=63223a46998ecbfe2d26ff&url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Ftrump-fist-pump-911%2F&format=json'}",None,3,snope,link,,url_here
+41,"{'rel': ['alternate'], 'type': 'text/xml+oembed', 'href': 'http://iframe.ly/api/oembed?origin=discovery&api_key=63223a46998ecbfe2d26ff&url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Ftrump-fist-pump-911%2F&format=xml'}",None,3,snope,link,,url_here
+42,"{'rel': ['icon'], 'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=32,32', 'sizes': '32x32'}",None,3,snope,link,,url_here
+43,"{'rel': ['icon'], 'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=192,192', 'sizes': '192x192'}",None,3,snope,link,,url_here
+44,"{'rel': ['apple-touch-icon-precomposed'], 'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=180,180'}",None,3,snope,link,,url_here
+45,"{'name': 'msapplication-TileImage', 'content': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/06/16-SNO-001_Twitter_Profile_400x400_C.jpg?fit=270,270'}",None,3,snope,meta,,url_here
+46,{},None,3,snope,style,.ezoic-ad.top_of_page-1000001 { display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:728px; }.ezoic-ad.under_page_title { display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:728px; }.ezoic-ad.under_second_paragraph-1000004 { display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;min-width:300px; }.ezoic-ad.mid_content-1000001 { display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px; }.ezoic-ad.long_content { display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !,url_here
+47,{'href': 'https://www.snopes.com/fact-check/trump-fist-pump-911/'},None,3,snope,base,,url_here
+48,"{'class': ['fact_check-template-default', 'single', 'single-fact_check', 'postid-161342', 'trump-fist-pump-911', 'sidebar-primary']}",None,2,snope,body,"Contact UsSupport UsWhat’s NewHot 50Fact CheckNewsArchiveSupport UsAbout UsRandom eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));Fact CheckFauxtography{""@context"":""http:\/\/schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/"",""name"":""Fact Check""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/category\/photos\/"",""name"":""Fauxtography""}}]}Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September ",url_here
+49,{},None,3,snope,noscript,,url_here
+50,"{'src': 'https://www.googletagmanager.com/ns.html?id=GTM-PDFK2Z7', 'height': '0', 'width': '0', 'style': 'display:none;visibility:hidden'}",None,4,snope,iframe,,url_here
+51,{'id': 'blackout'},None,3,snope,div,,url_here
+52,"{'class': ['snopes-partner-unit', 'partner-unit-head-top', 'adtester-container-643', 'active']}",None,3,snope,div,,url_here
+53,"{'class': ['snopes-partner-media', 'ezpt_top_of_page']}",None,4,snope,div,,url_here
+54,{'id': 'ezoic-pub-ad-placeholder-643'},None,5,snope,span,,url_here
+55,"{'id': 'header-main', 'class': ['header-main']}",None,3,snope,header,Contact UsSupport UsWhat’s NewHot 50Fact CheckNewsArchiveSupport UsAbout UsRandom,url_here
+56,{'class': ['header-main-wrapper']},None,4,snope,div,Contact UsSupport Us,url_here
+57,"{'id': 'header-btm', 'class': ['header-btm']}",None,5,snope,div,Contact UsSupport Us,url_here
+58,{'class': ['header-btm-left']},None,6,snope,div,,url_here
+59,"{'href': 'https://www.snopes.com/contact', 'class': ['header-left-btn']}",None,7,snope,a,,url_here
+60,"{'class': ['fa', 'fa-envelope-o']}",None,8,snope,i,,url_here
+61,"{'class': ['brand'], 'href': 'https://www.snopes.com/'}",None,7,snope,a,,url_here
+62,"{'src': 'https://www.snopes.com/content/themes/snopes/dist/images/logo-main-s.png', 'width': '25', 'class': ['logo-s']}",None,8,snope,img,,url_here
+63,"{'src': 'https://www.snopes.com/content/themes/snopes/dist/images/logo-main-header.png', 'width': '112', 'class': ['logo-full']}",None,8,snope,img,,url_here
+64,{'class': ['search']},None,7,snope,div,,url_here
+65,"{'action': '/', 'id': 'body-search', 'class': ['searchField', 'default-search', 'page-search']}",None,8,snope,form,,url_here
+66,{'class': ['material-input']},None,9,snope,div,,url_here
+67,{'class': ['material-input-wrapper']},None,10,snope,div,,url_here
+68,"{'placeholder': 'Search Keywords or URLs', 'type': 'text', 'name': 's', 'id': 'header-search', 'value': ''}",None,11,snope,input,,url_here
+69,"{'type': 'submit', 'class': ['submit']}",None,9,snope,button,,url_here
+70,"{'class': ['fa', 'fa-search']}",None,10,snope,i,,url_here
+71,"{'href': '#', 'class': ['mobile-search-close'], 'style': 'display: none'}",None,8,snope,a,,url_here
+72,"{'class': ['fa', 'fa-close']}",None,9,snope,i,,url_here
+73,{'class': ['header-btm-right']},None,6,snope,nav,Contact UsSupport Us,url_here
+74,{'class': ['utility-nav']},None,7,snope,ul,Contact UsSupport Us,url_here
+75,{},None,8,snope,li,Contact Us,url_here
+76,{'href': 'https://www.snopes.com/contact'},None,9,snope,a,Contact Us,url_here
+77,{},None,8,snope,li,Support Us,url_here
+78,{'href': 'https://www.snopes.com/how-to-support-snopes'},None,9,snope,a,Support Us,url_here
+79,{'class': ['mobile-utility-nav']},None,7,snope,ul,,url_here
+80,{'class': ['mobile-search']},None,8,snope,li,,url_here
+81,"{'href': '#search', 'class': ['search-toggle', 'nohash']}",None,9,snope,a,,url_here
+82,"{'class': ['fa', 'fa-search']}",None,10,snope,i,,url_here
+83,{'class': ['dropdown']},None,9,snope,div,,url_here
+84,"{'action': '/', 'id': 'body-search', 'class': ['main-search', 'homePage-search', 'searchField', 'default-search', 'default-search-lg', 'page-search']}",None,10,snope,form,,url_here
+85,{'class': ['form-group']},None,11,snope,div,,url_here
+86,{'class': ['error-container']},None,12,snope,div,,url_here
+87,"{'type': 'text', 'name': 's', 'placeholder': 'Search Keywords or URLs', 'class': ['form-control'], 'value': ''}",None,12,snope,input,,url_here
+88,"{'type': 'submit', 'class': ['form-search-button']}",None,12,snope,button,,url_here
+89,"{'class': ['fa', 'fa-search']}",None,13,snope,i,,url_here
+90,"{'href': '#search', 'class': ['mobile-search-toggle-button', 'nohash']}",None,10,snope,a,,url_here
+91,"{'class': ['fa', 'fa-close']}",None,11,snope,i,,url_here
+92,{'id': 'main-nav'},None,4,snope,nav,What’s NewHot 50Fact CheckNewsArchiveSupport UsAbout UsRandom,url_here
+93,{'class': ['menu-primary-navigation-container']},None,5,snope,div,What’s NewHot 50Fact CheckNewsArchiveSupport UsAbout UsRandom,url_here
+94,"{'id': 'menu-primary-navigation', 'class': ['nav-primary', 'nav', 'evt-track-links', 'evt-type-menu_main']}",None,6,snope,ul,What’s NewHot 50Fact CheckNewsArchiveSupport UsAbout UsRandom,url_here
+95,"{'id': 'menu-item-76788', 'class': ['navbtn-whatsnew', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76788']}",None,7,snope,li,What’s New,url_here
+96,"{'href': 'https://www.snopes.com/whats-new/', 'itemprop': 'url'}",None,8,snope,a,What’s New,url_here
+97,"{'id': 'menu-item-76789', 'class': ['navbtn-hot50', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76789']}",None,7,snope,li,Hot 50,url_here
+98,"{'href': 'https://www.snopes.com/50-hottest-urban-legends/', 'itemprop': 'url'}",None,8,snope,a,Hot 50,url_here
+99,"{'id': 'menu-item-129860', 'class': ['navbtn-factcheck', 'menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-129860']}",None,7,snope,li,Fact Check,url_here
+100,"{'href': 'https://www.snopes.com/fact-check/', 'itemprop': 'url'}",None,8,snope,a,Fact Check,url_here
+101,"{'id': 'menu-item-129861', 'class': ['navbtn-news', 'menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-129861']}",None,7,snope,li,News,url_here
+102,"{'href': 'https://www.snopes.com/news/', 'itemprop': 'url'}",None,8,snope,a,News,url_here
+103,"{'id': 'menu-item-76793', 'class': ['menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-76793']}",None,7,snope,li,Archive,url_here
+104,"{'href': 'https://www.snopes.com/archive/', 'itemprop': 'url'}",None,8,snope,a,Archive,url_here
+105,"{'id': 'menu-item-138068', 'class': ['menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-138068']}",None,7,snope,li,Support Us,url_here
+106,"{'href': 'https://www.snopes.com/how-to-support-snopes/', 'itemprop': 'url'}",None,8,snope,a,Support Us,url_here
+107,"{'id': 'menu-item-86304', 'class': ['navbtn-glossary', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-86304']}",None,7,snope,li,About Us,url_here
+108,"{'href': 'https://www.snopes.com/about-snopes/', 'itemprop': 'url'}",None,8,snope,a,About Us,url_here
+109,"{'id': 'menu-item-76804', 'class': ['navbtn-random', 'evt-type-random', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76804']}",None,7,snope,li,Random,url_here
+110,"{'href': 'https://www.snopes.com/random/', 'itemprop': 'url'}",None,8,snope,a,Random,url_here
+111,"{'class': ['snopes-partner-unit', 'partner-unit-header', 'adtester-container-101', 'adtester-container-113', 'active']}",None,3,snope,div,,url_here
+112,"{'class': ['snopes-partner-media', 'ezpt_top_of_page']}",None,4,snope,div,,url_here
+113,{'id': 'ezoic-pub-ad-placeholder-101'},None,5,snope,span,,url_here
+114,{'id': 'ezoic-pub-ad-placeholder-113'},None,5,snope,span,,url_here
+115,{'class': ['main']},None,3,snope,main,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));Fact CheckFauxtography{""@context"":""http:\/\/schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/"",""name"":""Fact Check""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/category\/photos\/"",""name"":""Fauxtography""}}]}Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of ",url_here
+116,"{'class': ['main-content-area', 'has-sidebar']}",None,4,snope,section,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));Fact CheckFauxtography{""@context"":""http:\/\/schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/"",""name"":""Fact Check""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/category\/photos\/"",""name"":""Fauxtography""}}]}Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of ",url_here
+117,"{'class': ['main-content-wrapper', 'clearfix']}",None,5,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));Fact CheckFauxtography{""@context"":""http:\/\/schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/"",""name"":""Fact Check""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/category\/photos\/"",""name"":""Fauxtography""}}]}Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of ",url_here
+118,"{'data-io-article-url': 'https://www.snopes.com/fact-check/trump-fist-pump-911/', 'class': ['body-content']}",None,6,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));Fact CheckFauxtography{""@context"":""http:\/\/schema.org"",""@type"":""BreadcrumbList"",""itemListElement"":[{""@type"":""ListItem"",""position"":1,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/"",""name"":""Fact Check""}},{""@type"":""ListItem"",""position"":2,""item"":{""@id"":""https:\/\/www.snopes.com\/fact-check\/category\/photos\/"",""name"":""Fauxtography""}}]}Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of ",url_here
+119,"{'class': ['snopes-partner-unit', 'partner-unit-post-top', 'adtester-container-642', 'active']}",None,7,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));",url_here
+120,"{'class': ['snopes-partner-media', 'ezpt_top_of_page']}",None,8,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));",url_here
+121,{'id': 'ezoic-pub-ad-placeholder-642'},None,9,snope,span,,url_here
+122,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:728px;', 'class': ['ezoic-ad', 'top_of_page-1000001', 'adtester-container', 'adtester-container-642'], 'data-ez-name': 'snopes_com-top_of_page-1000001'}",None,9,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));",url_here
+123,"{'id': 'div-gpt-ad-snopes_com-top_of_page-1000001-0', 'ezaw': '728', 'ezah': '90', 'style': 'position:relative;z-index:0;display:inline-block;min-height:90px;min-width:728px;', 'class': ['ezoic-ad']}",None,10,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-top_of_page-1000001','ezslot_1']));",url_here
+124,{'class': ['breadcrumb-nav']},None,7,snope,div,Fact CheckFauxtography,url_here
+125,"{'class': ['fa', 'fa-archive']}",None,8,snope,i,,url_here
+126,{},None,8,snope,ul,Fact CheckFauxtography,url_here
+127,{},None,9,snope,li,Fact Check,url_here
+128,{'href': 'https://www.snopes.com/fact-check/'},None,10,snope,a,Fact Check,url_here
+129,{},None,9,snope,li,Fauxtography,url_here
+130,{'href': 'https://www.snopes.com/fact-check/category/photos/'},None,10,snope,a,Fauxtography,url_here
+131,"{'class': ['post', 'post-161342', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-1391', 'tag-barack-obama', 'tag-donald-trump', 'fact_check_category-photos', 'fact_check_category-politicians', 'fact_check_category-politics', 'fact_check_rating-mixture']}",None,7,snope,article,"Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial. CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of supporters at an airport; not at a memorial for the victims of the September 11 terrorist attacks. ORIGINDozens of photographs were taken of President Donald Trump on 11 September 2018 as the chief executive traveled to Shanksville, Pennsylvania, to honor the victims of United Airlines Flight 93 who were killed during the 9/11 terrorist attacks. One image from that day, however, drew slightly more attention than ",url_here
+132,{},None,8,snope,header,"Did President Trump Fist-Pump at a 9/11 Memorial?An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial.",url_here
+133,{'class': ['article-title']},Title,9,snope,h1,Did President Trump Fist-Pump at a 9/11 Memorial?,url_here
+134,{'class': ['article-description']},None,9,snope,h2,"An image showing President Trump making an excited hand gesture on 11 September 2018 is genuine, but the photograph was snapped at an airport, not at a 9/11 memorial.",url_here
+135,{'class': ['article-image-wrapper']},None,8,snope,div,,url_here
+136,{'class': ['inner-wrapper']},None,9,snope,div,,url_here
+137,{'class': ['article-image-frame']},None,10,snope,div,,url_here
+138,"{'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=865,452', 'alt': '', 'class': ['main-image', 'skip-lazy-load'], 'data-srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=375%2C211 375w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=542%2C305 542w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=733%2C412 733w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=865%2C452 865w'}",None,11,snope,img,,url_here
+139,"{'class': ['article-image-blurred', 'img-url-redirect'], 'style': 'background-image: url(https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/fistpump.jpg?resize=865,452)'}",None,11,snope,div,,url_here
+140,"{'class': ['share-controls', 'share-controls-featured']}",None,8,snope,div,,url_here
+141,"{'class': ['sumome-share-custom-featured'], 'data-sumome-share-id': '32fc3169-4ca5-41e3-ae99-4c59f315d9b9', 'style': ''}",None,9,snope,a,,url_here
+142,"{'class': ['snopes-partner-unit', 'partner-unit-article-feature', 'adtester-container-102', 'adtester-container-111', 'active']}",None,8,snope,div,,url_here
+143,"{'class': ['snopes-partner-media', 'ezpt_under_page_title']}",None,9,snope,div,,url_here
+144,{'id': 'ezoic-pub-ad-placeholder-102'},None,10,snope,span,,url_here
+145,{'id': 'ezoic-pub-ad-placeholder-111'},None,10,snope,span,,url_here
+146,{'class': ['snopes-bt']},None,8,snope,div,,url_here
+147,"{'class': ['bt-uid-tg'], 'data-uid': '5b22ddfa64-186', 'style': 'display: none !important'}",None,9,snope,span,,url_here
+148,"{'class': ['entry-content', 'article-text']}",None,8,snope,div,"CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of supporters at an airport; not at a memorial for the victims of the September 11 terrorist attacks. ORIGINDozens of photographs were taken of President Donald Trump on 11 September 2018 as the chief executive traveled to Shanksville, Pennsylvania, to honor the victims of United Airlines Flight 93 who were killed during the 9/11 terrorist attacks. One image from that day, however, drew slightly more attention than the rest — a photograph showing the president making an excited hand gesture that was shared by a number of social media users and websites along with the claim that it was taken at a 9/11 memorial service:This photo",url_here
+149,{'class': ['article-text-inner']},Body,9,snope,div,"CLAIMA photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.RATINGMixtureeval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));WHAT'S TRUEA photograph shows President Trump making an excited hand gesture on 11 September 2018. WHAT'S FALSEThis photograph was taken as President Trump greeted a crowd of supporters at an airport; not at a memorial for the victims of the September 11 terrorist attacks. ORIGINDozens of photographs were taken of President Donald Trump on 11 September 2018 as the chief executive traveled to Shanksville, Pennsylvania, to honor the victims of United Airlines Flight 93 who were killed during the 9/11 terrorist attacks. One image from that day, however, drew slightly more attention than the rest — a photograph showing the president making an excited hand gesture that was shared by a number of social media users and websites along with the claim that it was taken at a 9/11 memorial service:This photo",url_here
+150,"{'class': ['section-break', 'claim']}",None,10,snope,h3,CLAIM,url_here
+151,{},None,11,snope,span,CLAIM,url_here
+152,{},Claim,10,snope,p,"A photograph shows President Trump making a ""fist-pumping"" hand gesture at a memorial for 9/11 victims.",url_here
+153,{'class': ['section-break']},None,10,snope,h3,RATING,url_here
+154,{},None,11,snope,span,RATING,url_here
+155,{'class': ['rating-wrapper']},None,10,snope,div,Mixture,url_here
+156,"{'class': ['claim', 'mixture'], 'href': 'https://www.snopes.com/fact-check/rating/mixture'}",None,11,snope,a,Mixture,url_here
+157,{'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/03/rating-mixture.png'},None,12,snope,img,,url_here
+158,{},Credibility,12,snope,span,Mixture,url_here
+159,"{'class': ['snopes-partner-unit', 'partner-unit-rating', 'adtester-container-640', 'adtester-container-641', 'active']}",None,10,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));",url_here
+160,"{'class': ['snopes-partner-media', 'ezpt_under_page_title']}",None,11,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));",url_here
+161,{'id': 'ezoic-pub-ad-placeholder-640'},None,12,snope,span,,url_here
+162,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:728px;', 'class': ['ezoic-ad', 'under_page_title', 'adtester-container', 'adtester-container-640'], 'data-ez-name': 'snopes_com-under_page_title'}",None,12,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));",url_here
+163,"{'id': 'div-gpt-ad-snopes_com-under_page_title-0', 'ezaw': '728', 'ezah': '90', 'style': 'position:relative;z-index:0;display:inline-block;min-height:90px;min-width:728px;', 'class': ['ezoic-ad']}",None,13,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-under_page_title','ezslot_4']));",url_here
+164,{'id': 'ezoic-pub-ad-placeholder-641'},None,12,snope,span,,url_here
+165,"{'class': ['section-break', 'whats-true']}",None,10,snope,h3,WHAT'S TRUE,url_here
+166,{},None,11,snope,span,WHAT'S TRUE,url_here
+167,{},None,10,snope,p,A photograph shows President Trump making an excited hand gesture on 11 September 2018.,url_here
+168,"{'class': ['section-break', 'whats-false']}",None,10,snope,h3,WHAT'S FALSE,url_here
+169,{},None,11,snope,span,WHAT'S FALSE,url_here
+170,{},None,10,snope,p,This photograph was taken as President Trump greeted a crowd of supporters at an airport; not at a memorial for the victims of the September 11 terrorist attacks.,url_here
+171,{'class': ['section-break']},None,10,snope,h3,ORIGIN,url_here
+172,{},None,11,snope,span,ORIGIN,url_here
+173,{},None,10,snope,p,"Dozens of photographs were taken of President Donald Trump on 11 September 2018 as the chief executive traveled to Shanksville, Pennsylvania, to honor the victims of United Airlines Flight 93 who were killed during the 9/11 terrorist attacks. One image from that day, however, drew slightly more attention than the rest — a photograph showing the president making an excited hand gesture that was shared by a number of social media users and websites along with the claim that it was taken at a 9/11 memorial service:",url_here
+174,"{'href': 'https://twitter.com/AynRandPaulRyan/status/1039525448294649857', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,social media,url_here
+175,"{'href': 'http://archive.fo/rli5B', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,websites,url_here
+176,{},None,10,snope,p,,url_here
+177,"{'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-911.jpg', 'target': '_blank'}",None,11,snope,a,,url_here
+178,"{'class': ['aligncenter', 'wp-image-161359'], 'style': 'border: 1px solid black;', 'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-911.jpg?resize=600,845', 'alt': '', 'srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-911.jpg?w=669 669w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-911.jpg?resize=213,300 213w', 'sizes': '(max-width: 600px) 100vw, 600px', 'data-recalc-dims': '1'}",None,12,snope,img,,url_here
+179,{},None,10,snope,p,"This photograph is real and it was taken on the 17th anniversary of the 11 September 2001 terrorist attacks. However, it was not taken at a memorial event in Shanksville.",url_here
+180,{},None,10,snope,p,"This photograph was snapped shortly after President Trump touched down at John Murtha Johnstown-Cambria County Airport in Johnston, Pennsylvania, and pictures the president as he approached a group of soldiers and cheering supporters. New York Times photographer Doug Mills originally shared the image on Twitter with the caption “.@realDonaldTrump First Lady Melania Trump greet supporters as they arrive in Johnstown, PA to attend the Flight 93 September 11 Memorial Service in Shanksville, PA”",url_here
+181,{},None,11,snope,em,New York Times,url_here
+182,"{'class': ['snopes-partner-unit', 'partner-unit-post', 'adtester-container-647', 'adtester-container-650', 'active']}",None,10,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-under_second_paragraph-1000004','ezslot_8']));",url_here
+183,"{'class': ['snopes-partner-media', 'ezpt_under_second_paragraph']}",None,11,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-under_second_paragraph-1000004','ezslot_8']));",url_here
+184,{'id': 'ezoic-pub-ad-placeholder-647'},None,12,snope,span,,url_here
+185,"{'style': 'display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;min-width:300px;', 'class': ['ezoic-ad', 'under_second_paragraph-1000004', 'adtester-container', 'adtester-container-647'], 'data-ez-name': 'snopes_com-under_second_paragraph-1000004'}",None,12,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-under_second_paragraph-1000004','ezslot_8']));",url_here
+186,"{'id': 'div-gpt-ad-snopes_com-under_second_paragraph-1000004-0', 'ezaw': '300', 'ezah': '250', 'style': 'position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;', 'class': ['ezoic-ad']}",None,13,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-under_second_paragraph-1000004','ezslot_8']));",url_here
+187,{'id': 'ezoic-pub-ad-placeholder-650'},None,12,snope,span,,url_here
+188,{},None,10,snope,p,The president’s hand-gesture can be glimpsed at the 8:35 mark of a WTAJ video of his arrival in Johnston:,url_here
+189,{},None,10,snope,p,,url_here
+190,"{'src': 'https://www.youtube.com/embed/M-1EkLnEXmE?start=510', 'width': '600', 'height': '337', 'frameborder': '0', 'allowfullscreen': 'allowfullscreen'}",None,11,snope,iframe,,url_here
+191,{},None,10,snope,p,"This image was also shared with the claim that it showed President Trump “on his way to a 9/11 memorial.” While this may be technically true, it should be noted that Shanksville, where United Airlines Flight 93 crashed, is about a 30-minute drive from Johnston.",url_here
+192,{},None,10,snope,p,A number of social media users also employed this photograph in order to compare President Trump’s demeanor on the anniversary of 9/11 to that of his predecessor:,url_here
+193,{},None,10,snope,p,,url_here
+194,"{'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama-comparison.jpg', 'target': '_blank'}",None,11,snope,a,,url_here
+195,"{'class': ['aligncenter', 'wp-image-161401'], 'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama-comparison.jpg?resize=600,600', 'alt': '', 'srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama-comparison.jpg?w=700 700w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama-comparison.jpg?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama-comparison.jpg?resize=300,300 300w', 'sizes': '(max-width: 600px) 100vw, 600px', 'data-recalc-dims': '1'}",None,12,snope,img,,url_here
+196,{},None,10,snope,p,"The image of President Obama and First Lady Michelle was taken by Associated Press photographer Pablo Martinez Monsivais during their Obamas’ visit to the Flight 93 National Memorial on 11 September 2011, the 10th anniversay of the 9/11 attacks. So although both of these photographs may be real, their juxtaposition is misleading.",url_here
+197,"{'href': 'http://www.apimages.com/metadata/Index/APTOPIX-Obama-Sept-11/80b6583e5db64d5292aa6b0436396f66/21/0', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,taken,url_here
+198,"{'class': ['snopes-partner-unit', 'partner-unit-post', 'adtester-container-648', 'adtester-container-651', 'active']}",None,10,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-mid_content-1000001','ezslot_0']));",url_here
+199,"{'class': ['snopes-partner-media', 'ezpt_mid_content']}",None,11,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-mid_content-1000001','ezslot_0']));",url_here
+200,{'id': 'ezoic-pub-ad-placeholder-648'},None,12,snope,span,,url_here
+201,"{'style': 'display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px;', 'class': ['ezoic-ad', 'mid_content-1000001', 'adtester-container', 'adtester-container-648'], 'data-ez-name': 'snopes_com-mid_content-1000001'}",None,12,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-mid_content-1000001','ezslot_0']));",url_here
+202,"{'id': 'div-gpt-ad-snopes_com-mid_content-1000001-0', 'ezaw': '728', 'ezah': '90', 'style': 'position:relative;z-index:0;display:inline-block;min-height:90px;min-width:728px;', 'class': ['ezoic-ad']}",None,13,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-mid_content-1000001','ezslot_0']));",url_here
+203,{'id': 'ezoic-pub-ad-placeholder-651'},None,12,snope,span,,url_here
+204,{},None,10,snope,p,"Comparing photographs of different people, taken at different times and at different locations, is problematic for a number of reasons. As photographs only capture fleeting moments, the images used in these comparisons are often cherry-picked in order to present a specific narrative. For instance, a number of photographs of Trump that were actually taken in Shanksville show a much more somber president, such as this picture captured by Doug Mills, the New York Times photographer who also snapped the “fist-pumping” image:",url_here
+205,"{'href': 'https://twitter.com/dougmillsnyt/status/1039536504677257216', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,picture,url_here
+206,{},None,11,snope,em,New York Times,url_here
+207,{},None,10,snope,p,,url_here
+208,"{'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/doug-mills.jpg', 'target': '_blank'}",None,11,snope,a,,url_here
+209,"{'class': ['aligncenter', 'wp-image-161370'], 'style': 'border: 1px solid black;', 'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/doug-mills.jpg?resize=600,736', 'alt': '', 'srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/doug-mills.jpg?w=657 657w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/doug-mills.jpg?resize=245,300 245w', 'sizes': '(max-width: 600px) 100vw, 600px', 'data-recalc-dims': '1'}",None,12,snope,img,,url_here
+210,{},None,10,snope,p,"Admittedly, we were not able to find any images of President Obama’s fist-pumping on 9/11. However, we could create a similar false narrative suggesting that former president Obama was being disrespectful on this somber day while President Trump was properly honoring the occasion, by cherry-picking another set of photographs. These images, for example, were both taken on an anniversary of the 9/11 attacks:",url_here
+211,"{'href': 'https://www.gettyimages.com/license/845648704', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,both,url_here
+212,"{'href': 'https://www.gettyimages.com/license/602411014', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,taken,url_here
+213,{},None,10,snope,p,,url_here
+214,"{'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-collage.jpg', 'target': '_blank'}",None,11,snope,a,,url_here
+215,"{'class': ['aligncenter', 'size-full', 'wp-image-161378'], 'style': 'border: 1px solid black;', 'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-collage.jpg?resize=600,205', 'alt': '', 'srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-collage.jpg?w=600 600w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-collage.jpg?resize=300,103 300w', 'sizes': '(max-width: 600px) 100vw, 600px', 'data-recalc-dims': '1'}",None,12,snope,img,,url_here
+216,{},None,10,snope,p,"This wasn’t the only comparison circulating on social media attempting to show how Barack Obama was more presidential in his handling of these tragic anniversaries than President Trump was. The following image graphic, for instance, purportedly compares two tweets that were sent by these Presidents on 11 September 2018:",url_here
+217,{},None,10,snope,p,,url_here
+218,"{'href': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama.png', 'target': '_blank'}",None,11,snope,a,,url_here
+219,"{'class': ['aligncenter', 'wp-image-161383'], 'style': 'border: 1px solid black;', 'src': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama.png?resize=600,600', 'alt': '', 'srcset': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama.png?w=640 640w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama.png?resize=150,150 150w, https://us-east-1.tchyn.io/snopes-production/uploads/2018/09/trump-obama.png?resize=300,300 300w', 'sizes': '(max-width: 600px) 100vw, 600px', 'data-recalc-dims': '1'}",None,12,snope,img,,url_here
+220,"{'class': ['snopes-partner-unit', 'partner-unit-post', 'adtester-container-649', 'adtester-container-652', 'active']}",None,10,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-long_content','ezslot_5']));",url_here
+221,"{'class': ['snopes-partner-media', 'ezpt_long_content']}",None,11,snope,div,"eval(ez_write_tag([[728,90],'snopes_com-long_content','ezslot_5']));",url_here
+222,{'id': 'ezoic-pub-ad-placeholder-649'},None,12,snope,span,,url_here
+223,"{'style': 'display:inline-block;float:none !important;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:110px;min-width:728px;', 'class': ['ezoic-ad', 'long_content', 'adtester-container', 'adtester-container-649'], 'data-ez-name': 'snopes_com-long_content'}",None,12,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-long_content','ezslot_5']));",url_here
+224,"{'id': 'div-gpt-ad-snopes_com-long_content-0', 'ezaw': '728', 'ezah': '90', 'style': 'position:relative;z-index:0;display:inline-block;min-height:90px;min-width:728px;', 'class': ['ezoic-ad']}",None,13,snope,span,"eval(ez_write_tag([[728,90],'snopes_com-long_content','ezslot_5']));",url_here
+225,{'id': 'ezoic-pub-ad-placeholder-652'},None,12,snope,span,,url_here
+226,{},None,10,snope,p,"Both of these tweets are real. Again, however, some cherry-picking is at play.",url_here
+227,"{'href': 'https://twitter.com/BarackObama/status/1039512025406349312', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,tweets,url_here
+228,"{'href': 'https://twitter.com/realDonaldTrump/status/1039498334594052096', 'target': '_blank', 'rel': ['noopener']}",None,11,snope,a,real,url_here
+229,{},None,10,snope,p,"President Trump posted 15 tweets on 11 September 2018. While these messages touched on a variety of topics, such as Russian collusion, small businesses, and “Crazy Maxine Waters,” he also shared a number of messages that elaborated on his “17 years since September 11th!” tweet:",url_here
+230,"{'class': ['twitter-tweet'], 'data-lang': 'en'}",None,10,snope,blockquote,"#NeverForget #September11th pic.twitter.com/POd8D1WfBa— Donald J. Trump (@realDonaldTrump) September 12, 2018",url_here
+231,"{'dir': 'ltr', 'lang': 'und'}",None,11,snope,p,#NeverForget #September11th pic.twitter.com/POd8D1WfBa,url_here
+232,"{'href': 'https://twitter.com/hashtag/NeverForget?src=hash&ref_src=twsrc%5Etfw', 'target': '_blank'}",None,12,snope,a,#NeverForget,url_here
+233,"{'href': 'https://twitter.com/hashtag/September11th?src=hash&ref_src=twsrc%5Etfw', 'target': '_blank'}",None,12,snope,a,#September11th,url_here
+234,"{'href': 'https://t.co/POd8D1WfBa', 'target': '_blank'}",None,12,snope,a,pic.twitter.com/POd8D1WfBa,url_here
+235,{},None,11,snope,p,"— Donald J. Trump (@realDonaldTrump) September 12, 2018",url_here
+236,"{'href': 'https://twitter.com/realDonaldTrump/status/1039669853060325378?ref_src=twsrc%5Etfw', 'target': '_blank'}",None,12,snope,a,"September 12, 2018",url_here
+237,{},None,10,snope,p,,url_here
+238,{},None,10,snope,p,"The photograph of President Trump fist-pumping on 11 September 2018 is real. However, this photograph was taken upon his arrival at an airport, not at a memorial service, and shows the president greeting a group of an excited supporters.",url_here
+239,{'class': ['social-share-footer']},None,9,snope,div,,url_here
+240,"{'class': ['sumome-share-custom-footer'], 'data-sumome-share-id': '71f16955-7c9c-41bc-8746-e800ac59977d'}",None,10,snope,a,,url_here
+241,{'class': ['article-footer-message']},None,9,snope,div,"Snopes.com has long been engaged in the battle against misinformation, an effort we could not sustain without the support of our readers. If you'd like to learn more about how you can support us, click here.",url_here
+242,{'style': 'font-size: 20px;padding: 10px 0px 0px 0px;font-style: italic;line-height: 25px;font-weight: 300'},None,10,snope,p,"Snopes.com has long been engaged in the battle against misinformation, an effort we could not sustain without the support of our readers.",url_here
+243,{'style': 'font-size: 20px;padding: 0px 0px 15px 0px;font-style: italic;line-height: 25px;font-weight: 300'},None,10,snope,p,"If you'd like to learn more about how you can support us, click here.",url_here
+244,{'href': 'https://www.snopes.com/how-to-support-snopes/'},None,11,snope,a,here,url_here
+245,"{'class': ['snopes-partner-unit', 'partner-unit-article-footer', 'adtester-container-103', 'adtester-container-112']}",None,9,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-under_first_paragraph-1000009','ezslot_3']));",url_here
+246,"{'class': ['snopes-partner-media', 'ezpt_under_first_paragraph']}",None,10,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-under_first_paragraph-1000009','ezslot_3']));",url_here
+247,{'id': 'ezoic-pub-ad-placeholder-103'},None,11,snope,span,,url_here
+248,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:250px;min-width:300px;', 'class': ['ezoic-ad', 'under_first_paragraph-1000009', 'adtester-container', 'adtester-container-103'], 'data-ez-name': 'snopes_com-under_first_paragraph-1000009'}",None,11,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-under_first_paragraph-1000009','ezslot_3']));",url_here
+249,"{'id': 'div-gpt-ad-snopes_com-under_first_paragraph-1000009-0', 'ezaw': '300', 'ezah': '250', 'style': 'position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;', 'class': ['ezoic-ad']}",None,12,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-under_first_paragraph-1000009','ezslot_3']));",url_here
+250,{'id': 'ezoic-pub-ad-placeholder-112'},None,11,snope,span,,url_here
+251,{'class': ['snopes-bt']},None,9,snope,div,,url_here
+252,"{'class': ['bt-uid-tg'], 'data-uid': '5b22ddf198-186', 'style': 'display: none !important'}",None,10,snope,span,,url_here
+253,{'class': ['article-footer']},None,9,snope,footer,"FeedbackSourcesFact Checker:Dan EvonPublished:12 September 2018Wilson, Samantha.   “Donald Trump Slammed for Fist-Pumping as He Arrived at 9/11 Memorial Service.”    Hollywood Life.   11 September 2018.Mazza, Ed.   “Twitter Users Torch Trump Over Fist-Pumping, Thumb-Raising 9/11 Commemoration.”    The Huffington Post.   12 September 2018.Ryan, Lisa.   “Donald Trump Is Having a Really Hard Time Honoring 9/11.”    The Cut.   11 September 2018.",url_here
+254,{'class': ['article-info-box']},None,10,snope,div,FeedbackSourcesFact Checker:Dan EvonPublished:12 September 2018,url_here
+255,"{'class': ['feedback-and-sources', '']}",None,11,snope,div,FeedbackSources,url_here
+256,"{'href': '#', 'data-modal-content': '#modal-feedback', 'data-modal-type': 'dom', 'class': ['nohash', 'btn-feedback', 'call-modal', 'ev-track', 'ajax-modal'], 'rel': ['ajaxmodal'], 'data-lightbox-title': 'Send Feedback', 'data-lightbox-title-icon': 'fa fa-envelope-o', 'title': 'Send Feedback', 'data-ev-track': 'social, email, send-feedback'}",None,12,snope,a,Feedback,url_here
+257,"{'href': '#feedback', 'class': ['nohash', 'btn-sources']}",None,12,snope,a,Sources,url_here
+258,{'class': ['author-box']},None,11,snope,p,Fact Checker:Dan Evon,url_here
+259,{'class': ['label']},None,12,snope,span,Fact Checker:,url_here
+260,"{'href': 'https://www.snopes.com/author/dan/', 'class': ['author-link']}",None,12,snope,a,Dan Evon,url_here
+261,{},None,11,snope,p,Published:12 September 2018,url_here
+262,{'class': ['label']},None,12,snope,span,Published:,url_here
+263,{'class': ['date-wrapper']},Date,12,snope,span,12 September 2018,url_here
+264,{},None,13,snope,span,,url_here
+265,{'class': ['article-sources-box']},None,10,snope,div,"Wilson, Samantha.   “Donald Trump Slammed for Fist-Pumping as He Arrived at 9/11 Memorial Service.”    Hollywood Life.   11 September 2018.Mazza, Ed.   “Twitter Users Torch Trump Over Fist-Pumping, Thumb-Raising 9/11 Commemoration.”    The Huffington Post.   12 September 2018.Ryan, Lisa.   “Donald Trump Is Having a Really Hard Time Honoring 9/11.”    The Cut.   11 September 2018.",url_here
+266,{},None,11,snope,p,"Wilson, Samantha.   “Donald Trump Slammed for Fist-Pumping as He Arrived at 9/11 Memorial Service.”    Hollywood Life.   11 September 2018.",url_here
+267,{},None,12,snope,br,,url_here
+268,{},None,12,snope,em,Hollywood Life,url_here
+269,{},None,11,snope,p,"Mazza, Ed.   “Twitter Users Torch Trump Over Fist-Pumping, Thumb-Raising 9/11 Commemoration.”    The Huffington Post.   12 September 2018.",url_here
+270,{},None,12,snope,br,,url_here
+271,{},None,12,snope,em,The Huffington Post,url_here
+272,{},None,11,snope,p,"Ryan, Lisa.   “Donald Trump Is Having a Really Hard Time Honoring 9/11.”    The Cut.   11 September 2018.",url_here
+273,{},None,12,snope,br,,url_here
+274,{},None,12,snope,em,The Cut,url_here
+275,"{'class': ['additional-articles', 'additional-articles-post', 'additional-articles-footer']}",None,9,snope,div,"More From Snopes.comFauxtographyDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.FoodWas a Tapeworm Found in Welch’s Fruit Snacks?9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.Politics  PoliticsDid the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.Politics  PoliticsDid Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.FauxtographyDoes This Grocery Store Have an Aisle for Lonely Single People?8 October 20",url_here
+276,{'class': ['header']},None,10,snope,div,More From Snopes.com,url_here
+277,{'class': ['title']},None,11,snope,h3,More From Snopes.com,url_here
+278,{'class': ['article-links-wrapper']},None,10,snope,div,"FauxtographyDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.FoodWas a Tapeworm Found in Welch’s Fruit Snacks?9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.Politics  PoliticsDid the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.Politics  PoliticsDid Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.FauxtographyDoes This Grocery Store Have an Aisle for Lonely Single People?8 October 2018An image of a groc",url_here
+279,{},None,11,snope,article,FauxtographyDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.,url_here
+280,"{'class': ['article-link', 'post-165415', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-signs-of-the-times', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/protest-sign-end-white-supremacy/'}",None,12,snope,a,FauxtographyDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.,url_here
+281,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+282,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2017/01/trump_airport_protest_fb.jpg?resize=542,305'}",None,14,snope,div,,url_here
+283,{'class': ['article-link-container']},None,13,snope,div,FauxtographyDid This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.,url_here
+284,{'class': ['breadcrumbs']},None,14,snope,div,Fauxtography,url_here
+285,{'class': ['title']},None,14,snope,h2,Did This Protest Sign Suggest the Mass Killing of White People in Order to End White Supremacy?,url_here
+286,{'class': ['desc']},None,14,snope,p,9 October 2018Social media users express vehement distaste for fake protest signs -- without realizing they're fake.,url_here
+287,{'class': ['article-date']},None,15,snope,span,9 October 2018,url_here
+288,{},None,11,snope,hr,,url_here
+289,{},None,11,snope,article,FoodWas a Tapeworm Found in Welch’s Fruit Snacks?9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.,url_here
+290,"{'class': ['article-link', 'post-165225', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-food-contamination', 'fact_check_category-food', 'fact_check_rating-unproven'], 'href': 'https://www.snopes.com/fact-check/welchs-fruit-snacks-piece/'}",None,12,snope,a,FoodWas a Tapeworm Found in Welch’s Fruit Snacks?9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.,url_here
+291,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+292,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/10/welchspackage.jpg?resize=542,305'}",None,14,snope,div,,url_here
+293,{'class': ['article-link-container']},None,13,snope,div,FoodWas a Tapeworm Found in Welch’s Fruit Snacks?9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.,url_here
+294,{'class': ['breadcrumbs']},None,14,snope,div,Food,url_here
+295,{'class': ['title']},None,14,snope,h2,Was a Tapeworm Found in Welch’s Fruit Snacks?,url_here
+296,{'class': ['desc']},None,14,snope,p,9 October 2018A viral Facebook claim about the supposed discovery of a parasite in a piece of Welch's Fruit Snack has not been verified.,url_here
+297,{'class': ['article-date']},None,15,snope,span,9 October 2018,url_here
+298,{},None,11,snope,hr,,url_here
+299,{},None,11,snope,article,"Politics  PoliticsDid the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.",url_here
+300,"{'class': ['article-link', 'post-165256', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'fact_check_category-legal', 'fact_check_category-politics', 'fact_check_rating-outdated'], 'href': 'https://www.snopes.com/fact-check/justice-department-facebook-anti-trump-activists/'}",None,12,snope,a,"Politics  PoliticsDid the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.",url_here
+301,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+302,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/03/facebook_security_feature.jpg?resize=542,305'}",None,14,snope,div,,url_here
+303,{'class': ['article-link-container']},None,13,snope,div,"Politics  PoliticsDid the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.",url_here
+304,{'class': ['breadcrumbs']},None,14,snope,div,Politics  Politics,url_here
+305,"{'class': ['fa', 'fa-angle-right']}",None,15,snope,i,,url_here
+306,{'class': ['title']},None,14,snope,h2,Did the Justice Department Demand Facebook Information for ‘Anti-Trump Activists’?,url_here
+307,{'class': ['desc']},None,14,snope,p,"8 October 2018In October 2018, social media users recirculated a story about search warrants that had actually been issued more than a year earlier.",url_here
+308,{'class': ['article-date']},None,15,snope,span,8 October 2018,url_here
+309,{},None,11,snope,hr,,url_here
+310,{},None,11,snope,article,"Politics  PoliticsDid Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.",url_here
+311,"{'class': ['article-link', 'post-165243', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-campaign-smears', 'tag-nancy-pelosi', 'fact_check_category-conspiracy-theories', 'fact_check_category-politics', 'fact_check_rating-miscaptioned', 'sources-infowars', 'sources-the-scoop'], 'href': 'https://www.snopes.com/fact-check/nancy-pelosi-wrap-up-smear/'}",None,12,snope,a,"Politics  PoliticsDid Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.",url_here
+312,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+313,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2017/05/shutterstock_596958554.jpg?resize=542,305'}",None,14,snope,div,,url_here
+314,{'class': ['article-link-container']},None,13,snope,div,"Politics  PoliticsDid Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.",url_here
+315,{'class': ['breadcrumbs']},None,14,snope,div,Politics  Politics,url_here
+316,"{'class': ['fa', 'fa-angle-right']}",None,15,snope,i,,url_here
+317,{'class': ['title']},None,14,snope,h2,Did Nancy Pelosi Admit Democrats Use a Tactic Called the ‘Wrap-Up Smear?’,url_here
+318,{'class': ['desc']},None,14,snope,p,"8 October 2018Unreliable sources claimed Pelosi admitted on video that Democrats use such a tactic, but in reality she ascribed it to Republicans.",url_here
+319,{'class': ['article-date']},None,15,snope,span,8 October 2018,url_here
+320,{},None,11,snope,hr,,url_here
+321,{},None,11,snope,article,FauxtographyDoes This Grocery Store Have an Aisle for Lonely Single People?8 October 2018An image of a grocery store aisle sign is often shared with jokes about single and lonely people.,url_here
+322,"{'class': ['article-link', 'post-165241', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-signs-of-the-times', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/grocery-store-single-people/'}",None,12,snope,a,FauxtographyDoes This Grocery Store Have an Aisle for Lonely Single People?8 October 2018An image of a grocery store aisle sign is often shared with jokes about single and lonely people.,url_here
+323,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+324,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2011/12/grocery-store-shopping-hanukkah-ham-865.jpg?resize=542,305'}",None,14,snope,div,,url_here
+325,{'class': ['article-link-container']},None,13,snope,div,FauxtographyDoes This Grocery Store Have an Aisle for Lonely Single People?8 October 2018An image of a grocery store aisle sign is often shared with jokes about single and lonely people.,url_here
+326,{'class': ['breadcrumbs']},None,14,snope,div,Fauxtography,url_here
+327,{'class': ['title']},None,14,snope,h2,Does This Grocery Store Have an Aisle for Lonely Single People?,url_here
+328,{'class': ['desc']},None,14,snope,p,8 October 2018An image of a grocery store aisle sign is often shared with jokes about single and lonely people.,url_here
+329,{'class': ['article-date']},None,15,snope,span,8 October 2018,url_here
+330,{},None,11,snope,hr,,url_here
+331,{},None,11,snope,article,"FauxtographyIs This a Photograph of a ‘Rainbow Butterfly’?8 October 2018If this were a new brand of candy, we'd definitely give it a try.",url_here
+332,"{'class': ['article-link', 'post-165217', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-butterflies', 'tag-insects', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/rainbow-butterfly/'}",None,12,snope,a,"FauxtographyIs This a Photograph of a ‘Rainbow Butterfly’?8 October 2018If this were a new brand of candy, we'd definitely give it a try.",url_here
+333,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+334,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/10/rainbow_butterfly_fb.jpg?resize=542,305'}",None,14,snope,div,,url_here
+335,{'class': ['article-link-container']},None,13,snope,div,"FauxtographyIs This a Photograph of a ‘Rainbow Butterfly’?8 October 2018If this were a new brand of candy, we'd definitely give it a try.",url_here
+336,{'class': ['breadcrumbs']},None,14,snope,div,Fauxtography,url_here
+337,{'class': ['title']},None,14,snope,h2,Is This a Photograph of a ‘Rainbow Butterfly’?,url_here
+338,{'class': ['desc']},None,14,snope,p,"8 October 2018If this were a new brand of candy, we'd definitely give it a try.",url_here
+339,{'class': ['article-date']},None,15,snope,span,8 October 2018,url_here
+340,{},None,11,snope,hr,,url_here
+341,{},None,11,snope,article,Computers‘Got Another Friend Request from You’ Facebook Warning7 October 2018A warning about a Facebook user's supposedly having received a second friend request from you is mostly useless.,url_here
+342,"{'class': ['article-link', 'featured-video', 'post-165166', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-facebook', 'fact_check_category-computers', 'fact_check_rating-false', 'attribute-video'], 'href': 'https://www.snopes.com/fact-check/got-another-friend-request-facebook-warning/'}",None,12,snope,a,Computers‘Got Another Friend Request from You’ Facebook Warning7 October 2018A warning about a Facebook user's supposedly having received a second friend request from you is mostly useless.,url_here
+343,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+344,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/10/fb_friends.jpg?resize=542,305'}",None,14,snope,div,,url_here
+345,{'class': ['article-link-container']},None,13,snope,div,Computers‘Got Another Friend Request from You’ Facebook Warning7 October 2018A warning about a Facebook user's supposedly having received a second friend request from you is mostly useless.,url_here
+346,{'class': ['breadcrumbs']},None,14,snope,div,Computers,url_here
+347,{'class': ['title']},None,14,snope,h2,‘Got Another Friend Request from You’ Facebook Warning,url_here
+348,{'class': ['desc']},None,14,snope,p,7 October 2018A warning about a Facebook user's supposedly having received a second friend request from you is mostly useless.,url_here
+349,{'class': ['article-date']},None,15,snope,span,7 October 2018,url_here
+350,{},None,11,snope,hr,,url_here
+351,{},None,11,snope,article,"Viral PhenomenaWas Maya Angelou Sexually Assaulted as a Child?5 October 2018A graphic shared online relays details that Angelou first revealed in her 1969 autobiography, ""I Know Why the Caged Bird Sings.""",url_here
+352,"{'class': ['article-link', 'post-164131', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'fact_check_category-viral-phenomena', 'fact_check_rating-true'], 'href': 'https://www.snopes.com/fact-check/maya-angelou-assaulted-chlid/'}",None,12,snope,a,"Viral PhenomenaWas Maya Angelou Sexually Assaulted as a Child?5 October 2018A graphic shared online relays details that Angelou first revealed in her 1969 autobiography, ""I Know Why the Caged Bird Sings.""",url_here
+353,"{'class': ['article-link-image', 'thumb']}",None,13,snope,div,,url_here
+354,"{'class': ['content', 'img-url-redirect'], 'data-bg': 'https://us-east-1.tchyn.io/snopes-production/uploads/2018/10/angelou.jpg?resize=542,305'}",None,14,snope,div,,url_here
+355,{'class': ['article-link-container']},None,13,snope,div,"Viral PhenomenaWas Maya Angelou Sexually Assaulted as a Child?5 October 2018A graphic shared online relays details that Angelou first revealed in her 1969 autobiography, ""I Know Why the Caged Bird Sings.""",url_here
+356,{'class': ['breadcrumbs']},None,14,snope,div,Viral Phenomena,url_here
+357,{'class': ['title']},None,14,snope,h2,Was Maya Angelou Sexually Assaulted as a Child?,url_here
+358,{'class': ['desc']},None,14,snope,p,"5 October 2018A graphic shared online relays details that Angelou first revealed in her 1969 autobiography, ""I Know Why the Caged Bird Sings.""",url_here
+359,{'class': ['article-date']},None,15,snope,span,5 October 2018,url_here
+360,{},None,11,snope,hr,,url_here
+361,"{'class': ['sidebar', 'sidebar-wrapper']}",None,6,snope,aside,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));View All Most Searched54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted makin",url_here
+362,"{'class': ['widget', 'sidebar_ads-5', 'widget_sidebar_ads']}",None,7,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));",url_here
+363,"{'class': ['snopes-partner-unit', 'partner-unit-sidebar', 'adtester-container-108', 'adtester-container-117', 'active']}",None,8,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));",url_here
+364,"{'class': ['snopes-partner-media', 'ezpt_sidebar']}",None,9,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));",url_here
+365,{'id': 'ezoic-pub-ad-placeholder-108'},None,10,snope,span,,url_here
+366,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:250px;min-width:300px;', 'class': ['ezoic-ad', 'sidebar-1000005', 'adtester-container', 'adtester-container-108'], 'data-ez-name': 'snopes_com-sidebar-1000005'}",None,10,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));",url_here
+367,"{'id': 'div-gpt-ad-snopes_com-sidebar-1000005-0', 'ezaw': '300', 'ezah': '250', 'style': 'position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;', 'class': ['ezoic-ad']}",None,11,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-sidebar-1000005','ezslot_6']));",url_here
+368,{'id': 'ezoic-pub-ad-placeholder-117'},None,10,snope,span,,url_here
+369,"{'class': ['bt-uid-tg'], 'data-uid': '5b22f56c75-186', 'style': 'display: none !important'}",None,8,snope,span,,url_here
+370,"{'class': ['widget', 'article_list-10', 'widget_article_list']}",None,7,snope,div,"View All Most Searched54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insi",url_here
+371,{'class': ['section-title']},None,8,snope,div,View All Most Searched,url_here
+372,"{'href': 'http://www.snopes.com/search/?widget=sidebar-primary-most_searched_clicked', 'class': ['view-all']}",None,9,snope,a,View All,url_here
+373,"{'class': ['fa', 'fa-angle-right']}",None,10,snope,i,,url_here
+374,{'class': ['title']},None,9,snope,h3,Most Searched,url_here
+375,"{'class': ['article-links-wrapper', 'widget', 'sidebar', 'with-sharecount', 'no-thumbs', 'evt-track-links', 'evt-type-widget_most_searched_clicked']}",None,8,snope,div,"54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken",url_here
+376,{},None,9,snope,article,"54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.",url_here
+377,"{'class': ['article-link', 'post-23776', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-facebook', 'fact_check_category-computers', 'fact_check_rating-mostly-false'], 'href': 'https://www.snopes.com/fact-check/facebook-pirates/'}",None,10,snope,a,"54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.",url_here
+378,{'class': ['article-link-container']},None,11,snope,div,"54KAre Facebook Pirates ‘Cloning’ Accounts?Fact Check  Computers27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.",url_here
+379,{'class': ['share-count']},None,12,snope,div,54K,url_here
+380,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+381,{'class': ['title']},None,12,snope,h4,Are Facebook Pirates ‘Cloning’ Accounts?,url_here
+382,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Computers,url_here
+383,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+384,{'class': ['desc']},None,12,snope,p,"27 December 2012Warning alerts social media users that Facebook 'pirates' Facebook ""pirates"" perpetrate scams by setting up look-alike Facebook accounts that copy other users' profiles.",url_here
+385,{'class': ['article-date']},None,13,snope,span,27 December 2012,url_here
+386,{},None,9,snope,hr,,url_here
+387,{},None,9,snope,article,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+388,"{'class': ['article-link', 'post-163392', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/ford-george-soros/'}",None,10,snope,a,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+389,{'class': ['article-link-container']},None,11,snope,div,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+390,{'class': ['share-count']},None,12,snope,div,59K,url_here
+391,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+392,{'class': ['title']},None,12,snope,h4,Is This a Photograph of Christine Blasey Ford with Bill Clinton?,url_here
+393,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Fauxtography,url_here
+394,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+395,{'class': ['desc']},None,12,snope,p,25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+396,{'class': ['article-date']},None,13,snope,span,25 September 2018,url_here
+397,{},None,9,snope,hr,,url_here
+398,{},None,9,snope,article,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+399,"{'class': ['article-link', 'post-162049', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-brett-kavanaugh', 'tag-pacific-pundit', 'tag-powerline', 'tag-scotus', 'tag-sexual-assault', 'tag-supreme-court', 'fact_check_category-legal', 'fact_check_category-politics', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/brett-kavanaugh-foreclosure-accuser-parents/'}",None,10,snope,a,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+400,{'class': ['article-link-container']},None,11,snope,div,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+401,{'class': ['share-count']},None,12,snope,div,27K,url_here
+402,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+403,{'class': ['title']},None,12,snope,h4,"Did Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?",url_here
+404,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Politics,url_here
+405,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+406,{'class': ['desc']},None,12,snope,p,17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.,url_here
+407,{'class': ['article-date']},None,13,snope,span,17 September 2018,url_here
+408,{},None,9,snope,hr,,url_here
+409,{},None,9,snope,article,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+410,"{'class': ['article-link', 'featured-video', 'post-163080', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-brett-kavanaugh', 'tag-richard-blumenthal', 'tag-vietnam-war', 'fact_check_category-politicians', 'fact_check_category-politics', 'fact_check_rating-mostly-true', 'attribute-video'], 'href': 'https://www.snopes.com/fact-check/richard-blumenthal-vietnam/'}",None,10,snope,a,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+411,{'class': ['article-link-container']},None,11,snope,div,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+412,{'class': ['share-count']},None,12,snope,div,45K,url_here
+413,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+414,{'class': ['title']},None,12,snope,h4,Did Senator Richard Blumenthal Misrepresent His Military Service?,url_here
+415,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Politics,url_here
+416,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+417,{'class': ['desc']},None,12,snope,p,"24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+418,{'class': ['article-date']},None,13,snope,span,24 September 2018,url_here
+419,{},None,9,snope,hr,,url_here
+420,{},None,9,snope,article,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+421,"{'class': ['article-link', 'post-162972', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-christine-blasey-ford', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/blasey-online-photos/'}",None,10,snope,a,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+422,{'class': ['article-link-container']},None,11,snope,div,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+423,{'class': ['share-count']},None,12,snope,div,52K,url_here
+424,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+425,{'class': ['title']},None,12,snope,h4,Is This a Photograph of Christine Blasey Ford Partying?,url_here
+426,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Fauxtography,url_here
+427,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+428,{'class': ['desc']},None,12,snope,p,23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+429,{'class': ['article-date']},None,13,snope,span,23 September 2018,url_here
+430,{},None,9,snope,hr,,url_here
+431,"{'class': ['widget', 'sidebar_ads-6', 'widget_sidebar_ads']}",None,7,snope,div,"eval(ez_write_tag([[300,600],'snopes_com-sidebar_middle-1000002','ezslot_9']));",url_here
+432,"{'class': ['snopes-partner-unit', 'partner-unit-sidebar', 'adtester-container-109', 'adtester-container-118', 'active']}",None,8,snope,div,"eval(ez_write_tag([[300,600],'snopes_com-sidebar_middle-1000002','ezslot_9']));",url_here
+433,"{'class': ['snopes-partner-media', 'ezpt_sidebar_middle']}",None,9,snope,div,"eval(ez_write_tag([[300,600],'snopes_com-sidebar_middle-1000002','ezslot_9']));",url_here
+434,{'id': 'ezoic-pub-ad-placeholder-109'},None,10,snope,span,,url_here
+435,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:600px;min-width:300px;', 'class': ['ezoic-ad', 'sidebar_middle-1000002', 'adtester-container', 'adtester-container-109'], 'data-ez-name': 'snopes_com-sidebar_middle-1000002'}",None,10,snope,span,"eval(ez_write_tag([[300,600],'snopes_com-sidebar_middle-1000002','ezslot_9']));",url_here
+436,"{'id': 'div-gpt-ad-snopes_com-sidebar_middle-1000002-0', 'ezaw': '300', 'ezah': '600', 'style': 'position:relative;z-index:0;display:inline-block;min-height:600px;min-width:300px;', 'class': ['ezoic-ad']}",None,11,snope,span,"eval(ez_write_tag([[300,600],'snopes_com-sidebar_middle-1000002','ezslot_9']));",url_here
+437,{'id': 'ezoic-pub-ad-placeholder-118'},None,10,snope,span,,url_here
+438,"{'class': ['bt-uid-tg'], 'data-uid': '5b22f577ce-186', 'style': 'display: none !important'}",None,8,snope,span,,url_here
+439,"{'class': ['widget', 'article_list-11', 'widget_article_list']}",None,7,snope,div,"View All Most Shared109KDid a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?Fact Check  Critter Country22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""miss",url_here
+440,{'class': ['section-title']},None,8,snope,div,View All Most Shared,url_here
+441,"{'href': 'http://www.snopes.com/most-shared/?widget=sidebar-primary-most_shared', 'class': ['view-all']}",None,9,snope,a,View All,url_here
+442,"{'class': ['fa', 'fa-angle-right']}",None,10,snope,i,,url_here
+443,{'class': ['title']},None,9,snope,h3,Most Shared,url_here
+444,"{'class': ['article-links-wrapper', 'widget', 'sidebar', 'with-sharecount', 'no-thumbs', 'evt-track-links', 'evt-type-widget_most_shared']}",None,8,snope,div,"109KDid a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?Fact Check  Critter Country22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""27KDid Judge ",url_here
+445,{},None,9,snope,article,"109KDid a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?Fact Check  Critter Country22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.",url_here
+446,"{'class': ['article-link', 'featured-video', 'post-158309', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-animals', 'tag-spiders', 'fact_check_category-animals', 'fact_check_rating-false', 'attribute-video'], 'href': 'https://www.snopes.com/fact-check/new-deadly-spider/'}",None,10,snope,a,"109KDid a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?Fact Check  Critter Country22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.",url_here
+447,{'class': ['article-link-container']},None,11,snope,div,"109KDid a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?Fact Check  Critter Country22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.",url_here
+448,{'class': ['share-count']},None,12,snope,div,109K,url_here
+449,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+450,{'class': ['title']},None,12,snope,h4,Did a ‘New Deadly Spider’ Species Kill Several People in the U.S. in the Summer of 2018?,url_here
+451,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Critter Country,url_here
+452,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+453,{'class': ['desc']},None,12,snope,p,"22 August 2018A viral, scare-mongering Facebook post fabricated a series of fatal spider bites and used photographs of the relatively harmless woodlouse spider.",url_here
+454,{'class': ['article-date']},None,13,snope,span,22 August 2018,url_here
+455,{},None,9,snope,hr,,url_here
+456,{},None,9,snope,article,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+457,"{'class': ['article-link', 'post-163392', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/ford-george-soros/'}",None,10,snope,a,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+458,{'class': ['article-link-container']},None,11,snope,div,59KIs This a Photograph of Christine Blasey Ford with Bill Clinton?Fact Check  Fauxtography25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+459,{'class': ['share-count']},None,12,snope,div,59K,url_here
+460,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+461,{'class': ['title']},None,12,snope,h4,Is This a Photograph of Christine Blasey Ford with Bill Clinton?,url_here
+462,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Fauxtography,url_here
+463,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+464,{'class': ['desc']},None,12,snope,p,25 September 2018Dr. Christine Blasey Ford is apparently a Zelig-like figure who has met and posed with every prominent American liberal.,url_here
+465,{'class': ['article-date']},None,13,snope,span,25 September 2018,url_here
+466,{},None,9,snope,hr,,url_here
+467,{},None,9,snope,article,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+468,"{'class': ['article-link', 'post-162972', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-christine-blasey-ford', 'fact_check_category-photos', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/blasey-online-photos/'}",None,10,snope,a,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+469,{'class': ['article-link-container']},None,11,snope,div,52KIs This a Photograph of Christine Blasey Ford Partying?Fact Check  Fauxtography23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+470,{'class': ['share-count']},None,12,snope,div,52K,url_here
+471,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+472,{'class': ['title']},None,12,snope,h4,Is This a Photograph of Christine Blasey Ford Partying?,url_here
+473,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Fauxtography,url_here
+474,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+475,{'class': ['desc']},None,12,snope,p,23 September 2018Apparently any photograph of a woman semi-clothed and drinking can be used to smear the credibility of someone who reported a sexual assault.,url_here
+476,{'class': ['article-date']},None,13,snope,span,23 September 2018,url_here
+477,{},None,9,snope,hr,,url_here
+478,{},None,9,snope,article,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+479,"{'class': ['article-link', 'featured-video', 'post-163080', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-brett-kavanaugh', 'tag-richard-blumenthal', 'tag-vietnam-war', 'fact_check_category-politicians', 'fact_check_category-politics', 'fact_check_rating-mostly-true', 'attribute-video'], 'href': 'https://www.snopes.com/fact-check/richard-blumenthal-vietnam/'}",None,10,snope,a,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+480,{'class': ['article-link-container']},None,11,snope,div,"45KDid Senator Richard Blumenthal Misrepresent His Military Service?Fact Check  Politics24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+481,{'class': ['share-count']},None,12,snope,div,45K,url_here
+482,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+483,{'class': ['title']},None,12,snope,h4,Did Senator Richard Blumenthal Misrepresent His Military Service?,url_here
+484,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Politics,url_here
+485,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+486,{'class': ['desc']},None,12,snope,p,"24 September 2018The Connecticut Democrat admitted making false and misleading claims about his military service record but insisted he had ""misspoken.""",url_here
+487,{'class': ['article-date']},None,13,snope,span,24 September 2018,url_here
+488,{},None,9,snope,hr,,url_here
+489,{},None,9,snope,article,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+490,"{'class': ['article-link', 'post-162049', 'fact_check', 'type-fact_check', 'status-publish', 'has-post-thumbnail', 'hentry', 'tag-brett-kavanaugh', 'tag-pacific-pundit', 'tag-powerline', 'tag-scotus', 'tag-sexual-assault', 'tag-supreme-court', 'fact_check_category-legal', 'fact_check_category-politics', 'fact_check_rating-false'], 'href': 'https://www.snopes.com/fact-check/brett-kavanaugh-foreclosure-accuser-parents/'}",None,10,snope,a,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+491,{'class': ['article-link-container']},None,11,snope,div,"27KDid Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?Fact Check  Politics17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.",url_here
+492,{'class': ['share-count']},None,12,snope,div,27K,url_here
+493,"{'class': ['fa', 'fa-share']}",None,13,snope,i,,url_here
+494,{'class': ['title']},None,12,snope,h4,"Did Judge Martha Kavanaugh ‘Rule Against’ the Parents of Her Son’s Accuser, Christine Blasey-Ford?",url_here
+495,{'class': ['breadcrumbs']},None,12,snope,div,Fact Check  Politics,url_here
+496,"{'class': ['fa', 'fa-angle-right']}",None,13,snope,i,,url_here
+497,{'class': ['desc']},None,12,snope,p,17 September 2018Right-wing websites concocted a cynical (and grossly inaccurate) conspiracy theory about a woman who has accused Brett Kavanaugh of sexual assault.,url_here
+498,{'class': ['article-date']},None,13,snope,span,17 September 2018,url_here
+499,{},None,9,snope,hr,,url_here
+500,"{'class': ['widget', 'sticky_pointer-7', 'widget_sticky_pointer']}",None,7,snope,div,,url_here
+501,{'class': ['sticky-pointer']},None,8,snope,div,,url_here
+502,"{'class': ['widget', 'sidebar_ads-7', 'widget_sidebar_ads']}",None,7,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar_bottom-1000009','ezslot_7']));",url_here
+503,"{'class': ['snopes-partner-unit', 'partner-unit-sidebar', 'adtester-container-110', 'adtester-container-119', 'active']}",None,8,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar_bottom-1000009','ezslot_7']));",url_here
+504,"{'class': ['snopes-partner-media', 'ezpt_sidebar_bottom']}",None,9,snope,div,"eval(ez_write_tag([[300,250],'snopes_com-sidebar_bottom-1000009','ezslot_7']));",url_here
+505,{'id': 'ezoic-pub-ad-placeholder-110'},None,10,snope,span,,url_here
+506,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:250px;min-width:300px;', 'class': ['ezoic-ad', 'sidebar_bottom-1000009', 'adtester-container', 'adtester-container-110'], 'data-ez-name': 'snopes_com-sidebar_bottom-1000009'}",None,10,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-sidebar_bottom-1000009','ezslot_7']));",url_here
+507,"{'id': 'div-gpt-ad-snopes_com-sidebar_bottom-1000009-0', 'ezaw': '300', 'ezah': '250', 'style': 'position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;', 'class': ['ezoic-ad']}",None,11,snope,span,"eval(ez_write_tag([[300,250],'snopes_com-sidebar_bottom-1000009','ezslot_7']));",url_here
+508,{'id': 'ezoic-pub-ad-placeholder-119'},None,10,snope,span,,url_here
+509,{'class': ['snopes-bt']},None,8,snope,div,,url_here
+510,"{'class': ['bt-uid-tg'], 'data-uid': '5b22f5620c-186', 'style': 'display: none !important'}",None,9,snope,span,,url_here
+511,"{'class': ['snopes-partner-unit', 'partner-unit-footer', 'adtester-container-104', 'adtester-container-114', 'active']}",None,3,snope,div,"eval(ez_write_tag([[970,90],'snopes_com-bottom_of_page','ezslot_2']));",url_here
+512,"{'class': ['snopes-partner-media', 'ezpt_bottom_of_page']}",None,4,snope,div,"eval(ez_write_tag([[970,90],'snopes_com-bottom_of_page','ezslot_2']));",url_here
+513,{'id': 'ezoic-pub-ad-placeholder-104'},None,5,snope,span,,url_here
+514,"{'style': 'display:inline-block;float:none !important;margin-bottom:0px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:90px;min-width:970px;', 'class': ['ezoic-ad', 'bottom_of_page', 'adtester-container', 'adtester-container-104'], 'data-ez-name': 'snopes_com-bottom_of_page'}",None,5,snope,span,"eval(ez_write_tag([[970,90],'snopes_com-bottom_of_page','ezslot_2']));",url_here
+515,"{'id': 'div-gpt-ad-snopes_com-bottom_of_page-0', 'ezaw': '970', 'ezah': '90', 'style': 'position:relative;z-index:0;display:inline-block;min-height:90px;min-width:970px;', 'class': ['ezoic-ad']}",None,6,snope,span,"eval(ez_write_tag([[970,90],'snopes_com-bottom_of_page','ezslot_2']));",url_here
+516,{'id': 'ezoic-pub-ad-placeholder-114'},None,5,snope,span,,url_here
+517,{'id': 'Footer'},None,3,snope,footer,What’s NewAbout UsHot 50Fact CheckStaffRandomNewsVideoMessage Board Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+518,{'class': ['footer-top']},None,4,snope,div,What’s NewAbout UsHot 50Fact CheckStaffRandomNewsVideoMessage Board,url_here
+519,{'id': 'footer-nav'},None,5,snope,nav,What’s NewAbout UsHot 50Fact CheckStaffRandomNewsVideoMessage Board,url_here
+520,{'class': ['menu-footer-navigation-container']},None,6,snope,div,What’s NewAbout UsHot 50Fact CheckStaffRandomNewsVideoMessage Board,url_here
+521,"{'id': 'menu-footer-navigation', 'class': ['footer-primary', 'nav', 'evt-track-links', 'evt-type-menu_main']}",None,7,snope,ul,What’s NewAbout UsHot 50Fact CheckStaffRandomNewsVideoMessage Board,url_here
+522,"{'id': 'menu-item-76806', 'class': ['navbtn-whatsnew', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76806']}",None,8,snope,li,What’s New,url_here
+523,"{'href': 'https://www.snopes.com/whats-new/', 'itemprop': 'url'}",None,9,snope,a,What’s New,url_here
+524,"{'id': 'menu-item-82879', 'class': ['menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-82879']}",None,8,snope,li,About Us,url_here
+525,"{'href': 'https://www.snopes.com/about-snopes/', 'itemprop': 'url'}",None,9,snope,a,About Us,url_here
+526,"{'id': 'menu-item-76810', 'class': ['navbtn-hot50', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76810']}",None,8,snope,li,Hot 50,url_here
+527,"{'href': 'https://www.snopes.com/50-hottest-urban-legends/', 'itemprop': 'url'}",None,9,snope,a,Hot 50,url_here
+528,"{'id': 'menu-item-131552', 'class': ['navbtn-factcheck', 'menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-131552']}",None,8,snope,li,Fact Check,url_here
+529,"{'href': 'https://www.snopes.com/fact-check', 'itemprop': 'url'}",None,9,snope,a,Fact Check,url_here
+530,"{'id': 'menu-item-86307', 'class': ['navbtn-glossary', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-86307']}",None,8,snope,li,Staff,url_here
+531,"{'href': 'https://www.snopes.com/snopes-staff/', 'itemprop': 'url'}",None,9,snope,a,Staff,url_here
+532,"{'id': 'menu-item-76814', 'class': ['navbtn-random', 'evt-type-random', 'menu-item', 'menu-item-type-post_type', 'menu-item-object-page', 'menu-item-76814']}",None,8,snope,li,Random,url_here
+533,"{'href': 'https://www.snopes.com/random/', 'itemprop': 'url'}",None,9,snope,a,Random,url_here
+534,"{'id': 'menu-item-131553', 'class': ['navbtn-news', 'menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-131553']}",None,8,snope,li,News,url_here
+535,"{'href': 'https://www.snopes.com/news', 'itemprop': 'url'}",None,9,snope,a,News,url_here
+536,"{'id': 'menu-item-131554', 'class': ['menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-131554']}",None,8,snope,li,Video,url_here
+537,"{'href': 'https://www.snopes.com/video', 'itemprop': 'url'}",None,9,snope,a,Video,url_here
+538,"{'id': 'menu-item-81615', 'class': ['menu-item', 'menu-item-type-custom', 'menu-item-object-custom', 'menu-item-81615']}",None,8,snope,li,Message Board,url_here
+539,"{'href': 'http://message.snopes.com', 'itemprop': 'url'}",None,9,snope,a,Message Board,url_here
+540,{'class': ['footer-bottom']},None,4,snope,div,Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+541,{'class': ['container']},None,5,snope,div,Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+542,{'class': ['row']},None,6,snope,div,Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+543,{'class': ['col-sm-6']},None,7,snope,div,,url_here
+544,{'class': ['logo']},None,8,snope,h2,,url_here
+545,"{'id': 'footer-logo-wrapper', 'href': 'https://www.snopes.com/'}",None,9,snope,a,,url_here
+546,"{'id': 'footer-logo', 'src': 'https://www.snopes.com/content/themes/snopes/dist/images/logo-main-header.png', 'width': '112', 'class': ['logo-full']}",None,10,snope,img,,url_here
+547,{'class': ['col-sm-6']},None,7,snope,div,,url_here
+548,{'class': ['social-networks']},None,8,snope,div,,url_here
+549,"{'href': 'https://www.facebook.com/snopes', 'target': '_blank', 'class': ['fb']}",None,9,snope,a,,url_here
+550,"{'class': ['fa', 'fa-facebook']}",None,10,snope,i,,url_here
+551,"{'href': 'https://www.twitter.com/snopes', 'target': '_blank', 'class': ['tw']}",None,9,snope,a,,url_here
+552,"{'class': ['fa', 'fa-twitter']}",None,10,snope,i,,url_here
+553,"{'href': 'https://www.snopes.com/contact', 'target': '_blank', 'class': ['email']}",None,9,snope,a,,url_here
+554,"{'class': ['fa', 'fa-envelope-o']}",None,10,snope,i,,url_here
+555,"{'href': 'https://www.snopes.com/rss', 'target': '_blank', 'class': ['rss']}",None,9,snope,a,,url_here
+556,"{'class': ['fa', 'fa-rss']}",None,10,snope,i,,url_here
+557,{'class': ['col-sm-12']},None,7,snope,div,Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+558,{},None,8,snope,p,Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |,url_here
+559,{'class': ['date-print']},None,9,snope,span,,url_here
+560,"{'href': 'https://snopes.com/privacy-policy/', 'style': 'color: #7f7e77'}",None,9,snope,a,Privacy Policy,url_here
+561,"{'href': 'https://snopes.com/legal-information-notices/', 'style': 'color: #7f7e77'}",None,9,snope,a,Terms of Use,url_here
+562,"{'id': 'modal-feedback', 'class': ['modal-item']}",None,3,snope,div,EmailCommentsI agree to the Snopes Terms of Use and the Privacy PolicySubmit,url_here
+563,"{'id': 'form-feedback', 'class': ['form-feedback', 'form-default'], 'method': 'post'}",None,4,snope,form,EmailCommentsI agree to the Snopes Terms of Use and the Privacy PolicySubmit,url_here
+564,{'class': ['form-wrapper']},None,5,snope,div,EmailCommentsI agree to the Snopes Terms of Use and the Privacy PolicySubmit,url_here
+565,{'class': ['form-group']},None,6,snope,div,Email,url_here
+566,{'for': 'feedbackEmail'},None,7,snope,label,Email,url_here
+567,"{'class': ['form-control'], 'id': 'feedbackEmail', 'type': 'email', 'name': 'feedbackEmail'}",None,7,snope,input,,url_here
+568,{'class': ['form-group']},None,6,snope,div,Comments,url_here
+569,{'for': 'feedbackMessage'},None,7,snope,label,Comments,url_here
+570,"{'class': ['form-control'], 'id': 'feedbackMessage', 'name': 'feedbackMessage', 'rows': '3'}",None,7,snope,textarea,,url_here
+571,"{'class': ['form-group', 'accept-policy']}",None,6,snope,div,I agree to the Snopes Terms of Use and the Privacy Policy,url_here
+572,{'class': ['form-check']},None,7,snope,div,I agree to the Snopes Terms of Use and the Privacy Policy,url_here
+573,"{'class': ['form-check-input'], 'type': 'checkbox', 'id': 'feedbackAcceptPolicy', 'name': 'feedbackAcceptPolicy'}",None,8,snope,input,,url_here
+574,"{'class': ['form-check-label'], 'for': 'feedbackAcceptPolicy'}",None,8,snope,label,I agree to the Snopes Terms of Use and the Privacy Policy,url_here
+575,{'href': 'http://www.snopes.com/snopes-terms-of-use/'},None,9,snope,a,Terms of Use,url_here
+576,{'href': 'http://www.snopes.com/privacy-policy/'},None,9,snope,a,Privacy Policy,url_here
+577,"{'class': ['form-group', 'clearfix']}",None,6,snope,div,Submit,url_here
+578,"{'id': 'captcha-form-feedback', 'class': ['captcha'], 'data-sitekey': '6LeXLFwUAAAAAG51DtmTJX9lLF9PLIMinGGdGXci'}",None,7,snope,div,,url_here
+579,"{'type': 'submit', 'class': ['btn', 'btn-submit']}",None,7,snope,button,Submit,url_here
+580,"{'type': 'hidden', 'name': 'post_author', 'value': 'dan'}",None,5,snope,input,,url_here
+581,"{'type': 'hidden', 'name': 'post_id', 'value': '161342'}",None,5,snope,input,,url_here
+582,"{'type': 'hidden', 'name': 'page_url', 'value': 'https://www.snopes.com/fact-check/trump-fist-pump-911/'}",None,5,snope,input,,url_here
+583,"{'type': 'hidden', 'id': 'security', 'name': 'security', 'value': 'b9fe8a4562'}",None,5,snope,input,,url_here
+584,"{'type': 'hidden', 'name': '_wp_http_referer', 'value': '/fact-check/trump-fist-pump-911/'}",None,5,snope,input,,url_here
+585,"{'class': ['modal', 'fade'], 'id': 'modal-chrome', 'tabindex': '-1', 'role': 'dialog'}",None,3,snope,div,×,url_here
+586,"{'class': ['modal-dialog'], 'role': 'document'}",None,4,snope,div,×,url_here
+587,{'class': ['modal-wrapper']},None,5,snope,div,×,url_here
+588,{'class': ['modal-content']},None,6,snope,div,×,url_here
+589,{'class': ['modal-header']},None,7,snope,div,×,url_here
+590,"{'type': 'button', 'class': ['close'], 'data-dismiss': 'modal', 'aria-label': 'Close'}",None,8,snope,button,×,url_here
+591,{'aria-hidden': 'true'},None,9,snope,span,×,url_here
+592,{'class': ['modal-title']},None,8,snope,h4,,url_here
+593,{'class': ['modal-body']},None,7,snope,div,,url_here
+594,"{'class': ['ezmob-footer', 'ezoic-floating-bottom', 'ezo_ad', 'ezmob-footer-desktop'], 'id': 'ezmobfooter'}",None,3,snope,div,x,url_here
+595,{},None,4,snope,center,,url_here
+596,{'id': 'ezoic-pub-ad-placeholder-100'},None,5,snope,span,,url_here
+597,"{'class': ['ezmob-footer-close'], 'onclick': ""document.getElementById('ezmobfooter').style.display='none';""}",None,4,snope,span,x,url_here
+598,"{'id': 'dmo1', 'style': 'display:none'}",None,3,snope,div,"<!--google_ad_client = ""ca-pub-6396844742497208"";/* dmo */google_ad_slot = ""dmo"";google_ad_width = 88;google_ad_height = 31;//-->",url_here
