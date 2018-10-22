@@ -6,9 +6,9 @@ def SITENAME(): # EDIT - SITENAME
     for page_number in range(1, pages+1):
         print('')
         print(page_number, '/', pages, '  [', count_url, '/', MAX_URLS_SITE, ']', end='')
-        
+
         url_ = # EDIT - URL with a list of articles
-        
+
         try:
             soup_ = get_soup(url_)
             if type(soup_) == str:
@@ -20,7 +20,7 @@ def SITENAME(): # EDIT - SITENAME
         soup_.prettify('utf-8')
         links = # EDIT - Get article URL bey soup_
         for anchor in links:
-            url = # EDIT - get url . usually ancher['href'] 
+            url = # EDIT - get url . usually anchor['href'] 
             if url in urls__:
                 continue
             urls__.append(url)
@@ -43,7 +43,7 @@ def SITENAME(): # EDIT - SITENAME
     if count_url < MAX_URLS_SITE:
         print('Warning:', count_url, 'URLS was include')
     return data
-            
+
 def SITENAME_walk_html(element, data, site, url, level, parent=None, brothers=[], dic_=None):
     features = {}
     if element is None:
@@ -63,36 +63,36 @@ def SITENAME_walk_html(element, data, site, url, level, parent=None, brothers=[]
         features['brother_tag'] = ''
         features['brother_attrs'] = {}
         features['brother_text'] = 'NONE'
-    
+
     # Title
     if (features['tag'] == 'title' or ()): # EDIT - Title
         features['label'] = 'Title'
         dic_['title'] += 1
-    
+
     # Date
     elif (): # EDIT - Date
         features['label'] = 'Date'
         dic_['date'] += 1
-    
+
     # Body
     elif (): # EDIT - Body
         features['label'] = 'Body'
         dic_['body'] += 1
-    
+
     # Claim
     elif (): # EDIT - Claim
         features['label'] = 'Claim'
         dic_['claim'] += 1
-    
+
     # Credibility
     elif (): # EDIT - Credibility
         features['label'] = 'Credibility'
         dic_['credibility'] += 1
-    
+
     # None
     else:
         features['label'] = 'None'
-    
+
     data.append(features)
     brothers_ = []
     for e_child in element:
