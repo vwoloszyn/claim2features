@@ -20,7 +20,7 @@ def SITENAME(): # EDIT - SITENAME
         soup_.prettify('utf-8')
         links = # EDIT - Get article URL bey soup_
         for anchor in links:
-            url = # EDIT - get url . usually anchor['href'] 
+            url = # EDIT - get url . usually anchor['href']
             if url in urls__:
                 continue
             urls__.append(url)
@@ -31,14 +31,15 @@ def SITENAME(): # EDIT - SITENAME
             count_url += 1
             if count_url > MAX_URLS_SITE:
                 return data
-            print('.', end='')
             soup.prettify("utf-8")
             data_ = []
             dic_ = {'claim': 0, 'credibility': 0, 'body': 0, 'date': 0, 'title': 0}
             SITENAME_walk_html(soup, data_, 'SITENAME', url, 0, dic_=dic_) # EDIT - SITENAME
             if dic_['claim'] and dic_['credibility'] and dic_['body']:
+                print('.', end='')
                 data += data_
             else:
+                print(',', end='')
                 count_url -= 1
     if count_url < MAX_URLS_SITE:
         print('Warning:', count_url, 'URLS was include')
