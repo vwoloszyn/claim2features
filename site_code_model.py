@@ -33,9 +33,9 @@ def SITENAME(): # EDIT - SITENAME
                 return data
             soup.prettify("utf-8")
             data_ = []
-            dic_ = {'claim': 0, 'credibility': 0, 'body': 0, 'date': 0, 'title': 0}
+            dic_ = {'claim': 0, 'credibility': 0, 'date': 0, 'title': 0}
             SITENAME_walk_html(soup, data_, 'SITENAME', url, 0, dic_=dic_) # EDIT - SITENAME
-            if dic_['claim'] and dic_['credibility'] and dic_['body']:
+            if dic_['claim'] and dic_['credibility']:
                 print('.', end='')
                 data += data_
             else:
@@ -74,11 +74,6 @@ def SITENAME_walk_html(element, data, site, url, level, parent=None, brothers=[]
     elif (): # EDIT - Date
         features['label'] = 'Date'
         dic_['date'] += 1
-
-    # Body
-    elif (): # EDIT - Body
-        features['label'] = 'Body'
-        dic_['body'] += 1
 
     # Claim
     elif (): # EDIT - Claim
